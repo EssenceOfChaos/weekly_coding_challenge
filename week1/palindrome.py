@@ -1,7 +1,7 @@
+import string
+
 def palindrome(s):
+  s = s.translate(str.maketrans('', '', string.punctuation)).lower()
   return s == s[::-1]
 
-print(palindrome("racecar"))  # true
-print(palindrome("superman")) # false
-print(palindrome("abcdedcba"))  # true
-print(palindrome("none")) # false
+print(palindrome("Live on time, emit no evil")) # true
