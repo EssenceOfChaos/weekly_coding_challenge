@@ -1,5 +1,7 @@
 package main
 
+// Freddy solution
+
 import (
 	"fmt"
 )
