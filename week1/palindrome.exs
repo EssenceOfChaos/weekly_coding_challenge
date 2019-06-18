@@ -1,4 +1,4 @@
-# Freddy solution for palindrome
+# Example solution for palindrome
 
 defmodule Palindrome do
   def solution(string) do
