@@ -11,3 +11,8 @@ Welcome to the weekly coding challenge!
 
 - Difficulty: easy-medium
 - Estimated time: 10 minutes
+
+## Week 3 - Word Count and Compare
+
+- Difficulty: medium
+- Estimated time: 15 minutes
