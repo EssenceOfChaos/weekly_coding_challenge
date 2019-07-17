@@ -1,0 +1,5 @@
+Here is some text in a file.
+It contains words and puncuation and new lines.
+Writing text files can be fun, even if you don't know what to write about. Trust me.
+Tuesday is coming, did you bring your coat? Do not let fear retard you. Be steadfast in your journy.
+If you are reading this text then you have won the game.
