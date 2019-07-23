@@ -27,9 +27,6 @@ map = %{
 
 IO.inspect(Test.sortmap(map))
 
-## Before @removed_words was implemented
-# ~/w/week3 ❯❯❯ elixir test.exs                                                                  4:19PM
-# [{"dont", 9}, {"about", 8}, {"a", 5}]
 
 ## After @removed_words was implemented
 # ~/w/week3 ❯❯❯ elixir test.exs                                                                  4:23PM
